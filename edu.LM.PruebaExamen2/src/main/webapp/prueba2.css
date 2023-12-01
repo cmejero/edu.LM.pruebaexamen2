@@ -1,0 +1,172 @@
+@charset "UTF-8";
+.Contenedor1{
+border: 1px solid black;
+width: 1370px;
+height: 120px;
+background-color: rgb(201, 227, 233);
+font-family: sans-serif;
+font-size: 145px;
+-webkit-text-fill-color: rgb(201, 227, 233);
+-webkit-text-stroke:1px black;
+text-align: center;
+
+}
+.cabecera1{
+position: relative;
+top: -166px;  left:0px;
+}
+
+
+.Contenedor1__1{
+border: 1px solid black;
+width: 1370px;
+height: 120px;
+background-color: rgb(89, 232, 232);	
+}
+.boton1{
+background-color: rgb(226, 128, 37);
+width: 500px;
+height: 70px;
+position: relative;
+top: 25px;  left:50px;
+font-size: 46px;
+padding: 3px 10px;
+ border: rgb(0, 0, 0) 1px solid;
+ border-radius: 20px;
+}
+.TextB1{
+	position: relative;
+top: 10px;  left:0px;
+}
+.boton2{
+background-color: rgb(226, 128, 37);
+width: 500px;
+height: 70px;
+position: relative;
+top: 25px;  left:165px;
+font-size: 46px;
+padding: 3px 10px;
+ border: rgb(0, 0, 0) 1px solid;
+ border-radius: 20px;
+}
+.TextB2{
+position: relative;
+top: 16px;  left:-20px;	
+}
+
+.Contenedor1__2{
+border: 1px solid black;
+width: 1370px;
+height: 420px;
+background-color: rgb(235, 235, 235);	
+font-size: 15px;
+
+}
+
+.Contenedor1__3{
+border: 1px solid black;
+width: 1370px;
+height: 90px;
+background-color: rgb(133, 133, 133);	
+font-size: 50px;
+text-align: center;
+}
+.text1__3{
+	position: relative;
+top: -20px;  left:0px;
+}
+
+
+
+/*TABLA1*/
+.text1__2--1{
+	position: relative;
+    top: 10px;  left:50px;
+    border:1px solid;
+    width: 36%;
+    
+    
+}
+.text1__2--2{
+	position: relative;
+    top: -355px;  left:670px;
+     border:1px solid;
+    width: 36%;
+    
+}
+
+
+
+
+
+
+
+
+
+/*TABLA 2*/
+.cabecera2{
+	text-align: center;
+	font-size: 30px;
+}
+input{
+	width: 230px;
+    height: 20px;
+    }
+.input__mod:hover {
+	background-color: rgb(255, 255, 0);
+}
+.input__mod:focus {
+	background-color: rgb(255, 0, 0);
+}
+
+.Nombre1{
+	font-size: 20px;	
+	position: relative;
+    top: 0px;  left:20px;
+    
+}
+.Apellido{
+	font-size: 20px;	
+	position: relative;
+    top: 0px;  left:40px;
+}
+.DNI{
+	font-size: 20px;	
+	position: relative;
+    top: 0px;  left:60px;
+}
+.ldn{
+	font-size: 20px;	
+	position: relative;
+    top: 0px;  left:20px;
+}
+.provincia{
+	font-size: 20px;	
+	position: relative;
+    top: 0px;  left:40px;
+}
+.fechaNac{
+	font-size: 20px;	
+	position: relative;
+    top: 17px;  left:-20px;
+}
+.email{
+	font-size: 20px;	
+	position: relative;
+    top: 17px;  left:0px;
+}
+.telefono{
+	font-size: 20px;	
+	position: relative;
+    top: 12px;  left:-19px;
+}
+.Direccion{
+	font-size: 20px;	
+	position: relative;
+    top: 7px;  left:-20px;
+}
+.CPostal{
+	font-size: 20px;	
+	position: relative;
+    top: 7px;  left:0px;
+}
